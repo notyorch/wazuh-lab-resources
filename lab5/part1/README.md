@@ -1,4 +1,4 @@
-# images
+# Bloqueo automático de accesos SSH no autorizados (Linux).md
 
 Descripción: Configurar Wazuh para que, al detectar ataques SSH por fuerza bruta, ejecute un script custom block-ip.sh que bloquee automáticamente la IP atacante en iptables sobre el endpoint Ubuntu.
 Estado: Listo
