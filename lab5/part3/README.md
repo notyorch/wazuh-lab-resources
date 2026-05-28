@@ -1,4 +1,4 @@
-# images
+# Bloqueo de ataques de fuerza bruta por RDP (Windows).md
 
 Descripción: Crear una regla personalizada en Wazuh (Regla 100100) que detecte ataques hacia el Escritorio Remoto (RDP) si ocurren 3 fallos de inicio de sesión en una ventana de 120 segundos. Se utilizará el script nativo netsh.exe para bloquear la IP del atacante en el firewall de Windows
 Estado: Listo
